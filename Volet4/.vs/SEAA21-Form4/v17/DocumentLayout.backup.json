@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\seaa21-form4\\seaa21-form4\\connexionadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|solutionrelative:seaa21-form4\\connexionadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\seaa21-form4\\seaa21-form4\\creernouveaupompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|solutionrelative:seaa21-form4\\creernouveaupompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\seaa21-form4\\seaa21-form4\\gestionpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|solutionrelative:seaa21-form4\\gestionpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\seaa21-form4\\connexionadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|solutionrelative:seaa21-form4\\connexionadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\seaa21-form4\\gestionpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|solutionrelative:seaa21-form4\\gestionpompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\seaa21-form4\\creernouveaupompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423D9434-F73C-4665-9C34-9AB4A79C3AE9}|SEAA21-Form4\\SEAA21-Form4.csproj|solutionrelative:seaa21-form4\\creernouveaupompier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnexionAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\ConnexionAdmin.cs",
+              "RelativeDocumentMoniker": "SEAA21-Form4\\ConnexionAdmin.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\ConnexionAdmin.cs",
+              "RelativeToolTip": "SEAA21-Form4\\ConnexionAdmin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:36:37.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreerNouveauPompier.cs",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\CreerNouveauPompier.cs",
+              "RelativeDocumentMoniker": "SEAA21-Form4\\CreerNouveauPompier.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\CreerNouveauPompier.cs",
+              "RelativeToolTip": "SEAA21-Form4\\CreerNouveauPompier.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:35:10.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionPompier.cs",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\GestionPompier.cs",
+              "RelativeDocumentMoniker": "SEAA21-Form4\\GestionPompier.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\GestionPompier.cs",
+              "RelativeToolTip": "SEAA21-Form4\\GestionPompier.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:11:43.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnexionAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\ConnexionAdmin.cs",
+              "RelativeDocumentMoniker": "SEAA21-Form4\\ConnexionAdmin.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\ConnexionAdmin.cs [Design]",
+              "RelativeToolTip": "SEAA21-Form4\\ConnexionAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:49:43.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionPompier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\GestionPompier.cs",
+              "RelativeDocumentMoniker": "SEAA21-Form4\\GestionPompier.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\GestionPompier.cs [Design]",
+              "RelativeToolTip": "SEAA21-Form4\\GestionPompier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:49:39.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreerNouveauPompier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\CreerNouveauPompier.cs",
+              "RelativeDocumentMoniker": "SEAA21-Form4\\CreerNouveauPompier.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\SEAA21-Form4\\SEAA21-Form4\\CreerNouveauPompier.cs [Design]",
+              "RelativeToolTip": "SEAA21-Form4\\CreerNouveauPompier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:49:36.477Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

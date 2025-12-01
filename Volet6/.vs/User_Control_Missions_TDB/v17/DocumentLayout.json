@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\user_control_missions_tdb\\user_control_missions_tdb\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|solutionrelative:user_control_missions_tdb\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\user_control_missions_tdb\\user_control_missions_tdb\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|solutionrelative:user_control_missions_tdb\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\user_control_missions_tdb\\user_control_missions_tdb\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|solutionrelative:user_control_missions_tdb\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|c:\\users\\dmeli\\onedrive\\desktop\\bite\\sae_pompier\\user_control_missions_tdb\\user_control_missions_tdb\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637F644B-CD4D-4F5D-BFB5-A4A5424B1AE3}|User_Control_Missions_TDB\\User_Control_Missions_TDB.csproj|solutionrelative:user_control_missions_tdb\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl1.cs",
+              "RelativeDocumentMoniker": "User_Control_Missions_TDB\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl1.cs",
+              "RelativeToolTip": "User_Control_Missions_TDB\\UserControl1.cs",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAiwJ8BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:49:44.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl2.cs",
+              "RelativeDocumentMoniker": "User_Control_Missions_TDB\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl2.cs",
+              "RelativeToolTip": "User_Control_Missions_TDB\\UserControl2.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:20:32.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl2.cs",
+              "RelativeDocumentMoniker": "User_Control_Missions_TDB\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl2.cs [Design]",
+              "RelativeToolTip": "User_Control_Missions_TDB\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:20:30.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl1.cs",
+              "RelativeDocumentMoniker": "User_Control_Missions_TDB\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\dmeli\\OneDrive\\Desktop\\BITE\\sae_pompier\\User_Control_Missions_TDB\\User_Control_Missions_TDB\\UserControl1.cs [Design]",
+              "RelativeToolTip": "User_Control_Missions_TDB\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:20:23.82Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
